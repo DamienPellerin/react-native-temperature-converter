@@ -6,7 +6,7 @@ const s = StyleSheet.create({
     height: 450,
     alignItems: "center",
     justifyContent: "space-evenly",
-    backgroundColor: "red",
+    padding: 20,
   },
 });
 
