@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "react-native-temperature-converter",
-    "slug": "react-native-temperature-converter",
+    "name": "Convertisseur temperature",
+    "slug": "convertisseur-temperature",
+    "description" : "Application pour converture des °C en °F et des °F en °C",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
