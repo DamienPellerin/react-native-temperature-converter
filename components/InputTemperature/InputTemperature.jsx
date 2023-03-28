@@ -7,7 +7,7 @@ export function InputTemperature({ defaultValue, onChangeText, unit }) {
       <TextInput
         style={s.input}
         placeholder="Tape une température"
-        keyboardType="numeric"
+        keyboardType="numbers-and-punctuation"
         maxLength={4}
         defaultValue={defaultValue}
         onChangeText={onChangeText}
